@@ -1,0 +1,46 @@
+[
+  {
+    "name": "iphone12",
+    "price": 154,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 900,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "iphone",
+    "price": 154,
+    "featured": true,
+    "rating": 4.9,
+    "company": "samsung"
+  },
+  {
+    "name": "watch",
+    "price": 954,
+    "rating": 4.9,
+    "company": "mi"
+  },
+  {
+    "name": "iphone11",
+    "price": 654,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "iphone",
+    "price": 541,
+    "rating": 4.9,
+    "company": "samsung"
+  },
+  {
+    "name": "Tab",
+    "price": 674,
+    "rating": 4.9,
+    "company": "dell"
+  }
+]
